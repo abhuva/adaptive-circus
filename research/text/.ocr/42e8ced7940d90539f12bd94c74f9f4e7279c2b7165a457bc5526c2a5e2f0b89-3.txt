@@ -1,0 +1,9 @@
+Forward Arrangement Diagrams
+2345
+2341 2315
+23142315
+2543
+LOMO
+Fixed-State
+Asynchronous
+PAG.4

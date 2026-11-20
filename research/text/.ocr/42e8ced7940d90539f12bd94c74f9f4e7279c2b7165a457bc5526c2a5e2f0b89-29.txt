@@ -1,0 +1,16 @@
+Forward Arrangement Diagrams
+[x23x-x45x]
+With 4-balls
+[x23x-x45x]
+[x23x-x45x]
+[x23x-x45x]
+[x23x-x45x]
+Open-State
+Reverse Synchronous
+[x32x-x54x]
+4-balls
+[x32x-x54x]
+[x32x-x54x]
+[x32x-x54x]
+[x32x-x54x]
+PAG 56

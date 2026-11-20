@@ -1,0 +1,5 @@
+Poi-Varianten
+Länge
+Material
+Gewicht
+Griff

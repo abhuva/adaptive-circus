@@ -1,0 +1,38 @@
+Forward Arrangement Diagrams
+With 4-balls
+[23-x54]
+[32-x45]
+[23-x54]
+[32-x45]
+With 4-balls
+[x2—4]
+[x3-5]
+[x2—4]
+[x3-5]
+[x2—4]
+With 4-balls
+[x2—4]
+[x3-1]
+[x2-1]
+[x3-5]
+[x2—4]
+Open-State
+Reverse Asynchronous
+With 4-balls
+[23-x41]
+[23-x51]
+[23-x41]
+[23-x51]
+With 4-balls
+[x2-5]
+[x3-4]
+[x2-5]
+[x3-4]
+[x2-5]
+With 4-balls
+[x2-5]
+[x3-1]
+[x2-1]
+[x3—4]
+[x2-5]
+PAG 60

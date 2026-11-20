@@ -1,0 +1,865 @@
+[
+  {
+    "source": "Books/BenBeeversGuidetoJugglingPatterns - EN.pdf",
+    "file": "Books/ce5411c737-BenBeeversGuidetoJugglingPatterns-EN.md",
+    "sha": "ce5411c737476959c1f62e25406f584ee4c11c6f207f560cb09a94126ae6d63f",
+    "pages": 74,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Books/CTF-Guidebook-min.pdf",
+    "file": "Books/399dbf4a5e-CTF-Guidebook-min.md",
+    "sha": "399dbf4a5eaa7a580699426ac089eb6ea2fb06d7554035c3a3882064c20ddf22",
+    "pages": 294,
+    "sparse": [
+      2,
+      6,
+      10,
+      26,
+      28,
+      95,
+      96,
+      98,
+      166,
+      168,
+      234,
+      260,
+      262
+    ],
+    "ocr": [
+      1,
+      24,
+      163,
+      236,
+      259,
+      293,
+      294
+    ]
+  },
+  {
+    "source": "Books/Circus Clinic - Exploring the therapeutic potential of contemporary circus.pdf",
+    "file": "Books/cc4cbc3a4d-Circus-Clinic-Exploring-the-therapeutic-potentia.md",
+    "sha": "cc4cbc3a4dfc627d0217ceeb560dd90017321f33375d79cf5070b1a8bb94ec6c",
+    "pages": 188,
+    "sparse": [
+      1,
+      5,
+      6,
+      9,
+      16,
+      22,
+      28,
+      35,
+      36,
+      43,
+      44,
+      51,
+      52,
+      59,
+      60,
+      69,
+      70,
+      80,
+      85,
+      86,
+      91,
+      92,
+      102,
+      118,
+      143,
+      185,
+      187
+    ],
+    "ocr": [
+      1,
+      5,
+      6,
+      118,
+      186
+    ]
+  },
+  {
+    "source": "Books/CircusWiki - Technical Manual.pdf",
+    "file": "Books/311d5997fb-CircusWiki-Technical-Manual.md",
+    "sha": "311d5997fb522542d9bdb8004a60ea2f88de225e547f9ee5bcdd637e2508f9a1",
+    "pages": 49,
+    "sparse": [
+      1,
+      6,
+      8,
+      10,
+      18,
+      28,
+      30,
+      34,
+      44,
+      46
+    ],
+    "ocr": []
+  },
+  {
+    "source": "Books/Creability_Praxishandbuch_DE1.pdf",
+    "file": "Books/456d402cf7-Creability-Praxishandbuch-DE1.md",
+    "sha": "456d402cf7c622641bd4437e38e5ffad0f05f903481941c495572d7bb5d101c2",
+    "pages": 154,
+    "sparse": [
+      4,
+      8,
+      14,
+      28,
+      29,
+      131,
+      132,
+      142,
+      143,
+      148
+    ],
+    "ocr": [
+      14
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling - The Book - DE.pdf",
+    "file": "Books/d6b1ffde0e-Functional-Juggling-The-Book-DE.md",
+    "sha": "d6b1ffde0e4784ffc9b68f8ca244f766223c2da0bf7cde506af9d71cc19b4669",
+    "pages": 109,
+    "sparse": [
+      13,
+      19,
+      41,
+      52,
+      74,
+      93,
+      95,
+      108
+    ],
+    "ocr": [
+      1,
+      41,
+      74,
+      108
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling - The Book - EN.pdf",
+    "file": "Books/5612c3f498-Functional-Juggling-The-Book-EN.md",
+    "sha": "5612c3f498efccd3e5e705f5dac43640f770c8d72eb4fc52d89f4d745e62aae3",
+    "pages": 90,
+    "sparse": [
+      1,
+      89
+    ],
+    "ocr": [
+      1
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling/BotteriETCJuggleboardReserch_MP_3B.pdf",
+    "file": "Books/Functional Juggling/74d027b2ef-BotteriETCJuggleboardReserch-MP-3B.md",
+    "sha": "74d027b2ef9c9551246f5a6d23bbd8d4cae920ea8a820cc48facf55ceb0b0f60",
+    "pages": 23,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Books/Functional Juggling/Juggle Board - Practical Guide.pdf",
+    "file": "Books/Functional Juggling/42e8ced794-Juggle-Board-Practical-Guide.md",
+    "sha": "42e8ced7940d90539f12bd94c74f9f4e7279c2b7165a457bc5526c2a5e2f0b89",
+    "pages": 34,
+    "sparse": [
+      1
+    ],
+    "ocr": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling/JuggleBoard_Intro.pdf",
+    "file": "Books/Functional Juggling/6d37a3759e-JuggleBoard-Intro.md",
+    "sha": "6d37a3759eea05e96e8b433e2bde418c01169d062bf97be84b0b0286f883215d",
+    "pages": 47,
+    "sparse": [
+      10,
+      12,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "ocr": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      21,
+      23,
+      25,
+      26,
+      32,
+      33,
+      35,
+      40,
+      41,
+      42,
+      43,
+      44,
+      46
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling/Online Seminar Presentation (Class-1).pdf",
+    "file": "Books/Functional Juggling/50af5c7b23-Online-Seminar-Presentation-Class-1.md",
+    "sha": "50af5c7b23ae4766f2d3c0040bea1b8fc4589f1683bb81d75466ba3fac3319ab",
+    "pages": 38,
+    "sparse": [
+      6,
+      10
+    ],
+    "ocr": [
+      6,
+      10
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling/Online Seminar Presentation (Class-2).pdf",
+    "file": "Books/Functional Juggling/55a6d2c1f4-Online-Seminar-Presentation-Class-2.md",
+    "sha": "55a6d2c1f4621113380356c33596aa1ac012ae94d7da11daf5efb64781e3ed14",
+    "pages": 36,
+    "sparse": [
+      5
+    ],
+    "ocr": [
+      5,
+      32
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling/Online Seminar Presentation (Class-3).pdf",
+    "file": "Books/Functional Juggling/97e0a19cae-Online-Seminar-Presentation-Class-3.md",
+    "sha": "97e0a19cae5d6b29804636b2ceb3dd6fc4722385a5eef9f8af8386dfbef5c29e",
+    "pages": 42,
+    "sparse": [
+      6,
+      12
+    ],
+    "ocr": [
+      6,
+      12
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling/Online Seminar Presentation (Class-4).pdf",
+    "file": "Books/Functional Juggling/b72f8fa216-Online-Seminar-Presentation-Class-4.md",
+    "sha": "b72f8fa21644beab0dcb7531e51efba499797ae9d74432e5b4a113859f25e422",
+    "pages": 31,
+    "sparse": [
+      5,
+      16,
+      21,
+      24
+    ],
+    "ocr": [
+      5,
+      16,
+      21,
+      24
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling/Online Seminar Presentation (Class-5).pdf",
+    "file": "Books/Functional Juggling/e59ab2d2bd-Online-Seminar-Presentation-Class-5.md",
+    "sha": "e59ab2d2bdb186c0cfda158abb8bf210f1f92f87ce07158234f760dd6de98221",
+    "pages": 28,
+    "sparse": [
+      5,
+      11
+    ],
+    "ocr": [
+      5,
+      11
+    ]
+  },
+  {
+    "source": "Books/Functional Juggling/QUAT PROPS RESOURCE - GUIDE BOOK.pdf",
+    "file": "Books/Functional Juggling/ed58bf1166-QUAT-PROPS-RESOURCE-GUIDE-BOOK.md",
+    "sha": "ed58bf116626310c31ef77dd42d49170e8967ed0a8932f851657bc1300ad01a0",
+    "pages": 20,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Books/Functional Juggling/Training Course Handout Packet.pdf",
+    "file": "Books/Functional Juggling/b860f402c7-Training-Course-Handout-Packet.md",
+    "sha": "b860f402c7114e5cc05ed552ccf5e4bfb138e08cafbd7c1263fa6ef2d50f90cd",
+    "pages": 13,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Books/Motor Capacities Handbook in the Educational Circus.pdf",
+    "file": "Books/ee202785e1-Motor-Capacities-Handbook-in-the-Educational-Cir.md",
+    "sha": "ee202785e1d5eb3251fc83a5eb444fb2612a2e8bd04c682e24dfbafa1efc8c1a",
+    "pages": 138,
+    "sparse": [
+      2,
+      40,
+      129,
+      130
+    ],
+    "ocr": [
+      1
+    ]
+  },
+  {
+    "source": "Books/Motor-Capacities-Handbook de.pdf",
+    "file": "Books/48d6610b88-Motor-Capacities-Handbook-de.md",
+    "sha": "48d6610b8804abd0442cf676d6513a26501dab8c8ae25defeff5a40a1d2b7cf0",
+    "pages": 244,
+    "sparse": [
+      2,
+      8,
+      67,
+      81,
+      83,
+      230,
+      231,
+      243
+    ],
+    "ocr": [
+      1
+    ]
+  },
+  {
+    "source": "Books/Motor-Capacities-Handbook.pdf",
+    "file": "Books/0ed221b206-Motor-Capacities-Handbook.md",
+    "sha": "0ed221b206991e04089aba90841750eaa37e4b249ceae2b9dd6915d149659141",
+    "pages": 138,
+    "sparse": [
+      2,
+      40,
+      129,
+      130
+    ],
+    "ocr": [
+      1
+    ]
+  },
+  {
+    "source": "Books/Siteswap Cards.pdf",
+    "file": "Books/67b739d64a-Siteswap-Cards.md",
+    "sha": "67b739d64a482332b5cb0ed31fefc69474618b849f97c77d5f0c8fb6e3bf0681",
+    "pages": 3,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Books/Social Circus Trainer's Guide V - Cirque du Monde de.pdf",
+    "file": "Books/f2d9e84de1-Social-Circus-Trainer-s-Guide-V-Cirque-du-Monde-.md",
+    "sha": "f2d9e84de1168171bf8a5983e97d98894cfdfa558a39800dfd8ba3b5400c3ae2",
+    "pages": 511,
+    "sparse": [
+      9,
+      13,
+      19,
+      23,
+      32,
+      37,
+      47,
+      56,
+      61,
+      72,
+      76,
+      92,
+      102,
+      120,
+      144,
+      152,
+      156,
+      162,
+      177,
+      184,
+      208,
+      212,
+      216,
+      220,
+      236,
+      246,
+      250,
+      264,
+      272,
+      302,
+      306,
+      319,
+      324,
+      332,
+      338,
+      345,
+      376,
+      380,
+      382,
+      398,
+      402,
+      406,
+      417,
+      421,
+      438,
+      456,
+      460,
+      466,
+      470,
+      499,
+      504
+    ],
+    "ocr": [
+      9,
+      11,
+      13,
+      88,
+      140,
+      240,
+      264,
+      268,
+      271,
+      274,
+      285,
+      319,
+      328,
+      382,
+      402,
+      444,
+      448,
+      452
+    ]
+  },
+  {
+    "source": "Books/Social Circus Trainer's Guide V - Cirque du Monde.pdf",
+    "file": "Books/f8f695dd1a-Social-Circus-Trainer-s-Guide-V-Cirque-du-Monde.md",
+    "sha": "f8f695dd1aa4576f95deee3688e80f883e5380344ac093e9923a69917d09fd1d",
+    "pages": 336,
+    "sparse": [
+      24,
+      43
+    ],
+    "ocr": [
+      1,
+      98,
+      132,
+      150,
+      170,
+      184,
+      226,
+      280,
+      304,
+      318
+    ]
+  },
+  {
+    "source": "NICA/Broschüre/Broschüre NICA 2.pdf",
+    "file": "NICA/Broschüre/094f3d09f3-Broschure-NICA-2.md",
+    "sha": "094f3d09f320ca2b1acb3168ef387e8e2f600031881b3cf4cf382958a2de6c01",
+    "pages": 2,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "NICA/NICA-Vorstellung.pdf",
+    "file": "NICA/da02e78db7-NICA-Vorstellung.md",
+    "sha": "da02e78db751fbc7388c83238c1dbcec1799374cf520ae7b3e2fc6ac167e5390",
+    "pages": 17,
+    "sparse": [
+      12
+    ],
+    "ocr": []
+  },
+  {
+    "source": "NICA/Poi Workshop - Fachtagung BAG 22.03.2025.pdf",
+    "file": "NICA/4e6e098547-Poi-Workshop-Fachtagung-BAG-22-03-2025.md",
+    "sha": "4e6e0985475195178e16f347e3b5f4c5a949e3843542e83791562328a2b969cb",
+    "pages": 22,
+    "sparse": [
+      1,
+      4,
+      6,
+      7,
+      8,
+      13,
+      14,
+      15,
+      18
+    ],
+    "ocr": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      20
+    ]
+  },
+  {
+    "source": "NICA/Poi Workshop - Pusteblume 17.05.25_compressed.pdf",
+    "file": "NICA/c3466096e9-Poi-Workshop-Pusteblume-17-05-25-compressed.md",
+    "sha": "c3466096e96e350b885a28cb94db60372b9ef43a3826ede5e4cd7d8c6e121452",
+    "pages": 24,
+    "sparse": [
+      1,
+      6,
+      7,
+      8,
+      10,
+      11,
+      15,
+      23,
+      24
+    ],
+    "ocr": [
+      20
+    ]
+  },
+  {
+    "source": "Research + Studies/9_2019_VazouS_Self_Determination_Through_Circus_Arts.pdf",
+    "file": "Research + Studies/661a4ee65a-9-2019-VazouS-Self-Determination-Through-Circus-.md",
+    "sha": "661a4ee65ad3506acad6b32c32ffd1061f27552e006d1756373bc139cdfbe629",
+    "pages": 20,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/An exploratory analysis of psychological factors influencing circus performers.pdf",
+    "file": "Research + Studies/31c6efc599-An-exploratory-analysis-of-psychological-factors.md",
+    "sha": "31c6efc599c308cfc7b689ab3821a3087c75da0aec243f96c602b2a1a3816da9",
+    "pages": 3,
+    "sparse": [],
+    "ocr": [
+      3
+    ]
+  },
+  {
+    "source": "Research + Studies/Behavioral Impact of Unisensory and Multisensory Audio-Tactile Events.pdf",
+    "file": "Research + Studies/6aeebc9f3f-Behavioral-Impact-of-Unisensory-and-Multisensory.md",
+    "sha": "6aeebc9f3f922694f0e658120539d58f6d27351caa0b6e2c8760cb8023666af1",
+    "pages": 11,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Changes in Gray Matter Induced by Learning.pdf",
+    "file": "Research + Studies/44a5bfdab0-Changes-in-Gray-Matter-Induced-by-Learning.md",
+    "sha": "44a5bfdab01da27f5566b3336780f34f46e7a4049cb0bc7d19a196844ca0fe29",
+    "pages": 5,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Circus-specific extensions of the 6th international consensus statement on concussion.pdf",
+    "file": "Research + Studies/5ca5db17fe-Circus-specific-extensions-of-the-6th-internatio.md",
+    "sha": "5ca5db17fe4424f27acb5a7c181328f0c4c50f023e035f841b9a473fb9655e53",
+    "pages": 9,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Collection of scientific studies on the benefit of juggling_circus.pdf",
+    "file": "Research + Studies/fce5ce39f0-Collection-of-scientific-studies-on-the-benefit-.md",
+    "sha": "fce5ce39f02f1ddb0bafa1bf7ae582b30d8a322aa96b945ba2d84d875150ee55",
+    "pages": 24,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Effect of Juggling therapy on anxiety disorders on female patients.pdf",
+    "file": "Research + Studies/d065891d22-Effect-of-Juggling-therapy-on-anxiety-disorders-.md",
+    "sha": "d065891d22863eb7c8a605a887d536a281941adfc06224afac03f12fa44ae629",
+    "pages": 4,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Effect of Regular Circus Physical Exercises on Lymphocytes in Overweight Children.pdf",
+    "file": "Research + Studies/16893c5755-Effect-of-Regular-Circus-Physical-Exercises-on-L.md",
+    "sha": "16893c57557ed8b71ea6dc1c8fbc5b87176e1dc2a65da9ea18272d02e24a7ddd",
+    "pages": 16,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Functional Juggling/BotteriETCJuggleboardReserch_MP_3B.pdf",
+    "file": "Research + Studies/Functional Juggling/74d027b2ef-BotteriETCJuggleboardReserch-MP-3B.md",
+    "sha": "74d027b2ef9c9551246f5a6d23bbd8d4cae920ea8a820cc48facf55ceb0b0f60",
+    "pages": 23,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Functional Juggling/Elaborato da stampare de.pdf",
+    "file": "Research + Studies/Functional Juggling/6036e000e2-Elaborato-da-stampare-de.md",
+    "sha": "6036e000e218a3ea2efe23e3a545ebbe5cb15c4301a3dbbc6e380c9bfb2c29f4",
+    "pages": 110,
+    "sparse": [
+      10,
+      17,
+      34,
+      53,
+      74,
+      79,
+      85,
+      87,
+      91
+    ],
+    "ocr": [
+      103,
+      104,
+      105
+    ]
+  },
+  {
+    "source": "Research + Studies/Functional Juggling/Elaborato da stampare.pdf",
+    "file": "Research + Studies/Functional Juggling/9fab11f754-Elaborato-da-stampare.md",
+    "sha": "9fab11f754a7f78ea46833a2340467b8c0c17304f3eff7d6661a815991789ca0",
+    "pages": 73,
+    "sparse": [],
+    "ocr": [
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "source": "Research + Studies/Gaze fixation improves the stability of expert juggling.pdf",
+    "file": "Research + Studies/5f07b61e94-Gaze-fixation-improves-the-stability-of-expert-j.md",
+    "sha": "5f07b61e9430664689ce6c11b3b5353019a6e91969e69768160afaae90ed0c1d",
+    "pages": 10,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Neave etal Circus Skills Theatre Dance  Performance Training.pdf",
+    "file": "Research + Studies/cc67a77694-Neave-etal-Circus-Skills-Theatre-Dance-Performan.md",
+    "sha": "cc67a776943c2ce72ad52075c02ae9f20fab89906974b7ef204bbc39ded16018",
+    "pages": 18,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Occupational Identification and Assimilation of Pain Work   Re Conceptualizing the Experience of Pain at Work as an Embodied  Co-Constructed Process.pdf",
+    "file": "Research + Studies/dc3af51827-Occupational-Identification-and-Assimilation-of-.md",
+    "sha": "dc3af51827a07ec0ca200c2b79f6f76cc257974056a51879741577db6563c46d",
+    "pages": 26,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Occupational therapy and circus Potential partners in.pdf",
+    "file": "Research + Studies/6739f4dbdd-Occupational-therapy-and-circus-Potential-partne.md",
+    "sha": "6739f4dbdd288041605e2273fa29ba78b7e306df8546cd84be61a61b76a29952",
+    "pages": 4,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Physiological and Emotional Responses of Disabled Children to Therapeutic Clowns.pdf",
+    "file": "Research + Studies/a725581e22-Physiological-and-Emotional-Responses-of-Disable.md",
+    "sha": "a725581e227fa83b63fe5e98373867791edda21221bcbaf1a88a6588a9469437",
+    "pages": 11,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Social Circus/Cirque du Monde as a health intervention.pdf",
+    "file": "Research + Studies/Social Circus/c8e9e1094c-Cirque-du-Monde-as-a-health-intervention.md",
+    "sha": "c8e9e1094c415f22a5097ecf2a547324da1721e88ef851f425f1516234aa57b6",
+    "pages": 6,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Social Circus/Learning social circus jumping through hoops to achieve success.pdf",
+    "file": "Research + Studies/Social Circus/7899783539-Learning-social-circus-jumping-through-hoops-to-.md",
+    "sha": "7899783539c48dbe96f41db5215b6873d25553a777436accc7d8e3b01481425a",
+    "pages": 14,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Social Circus/Re-approaching community development through the arts a critical mixed methods study of social circus in Quebec.pdf",
+    "file": "Research + Studies/Social Circus/c61bcd42a1-Re-approaching-community-development-through-the.md",
+    "sha": "c61bcd42a16fdbe7eba20fbbfaee1df0612e4345fb71ab9060a2b5e3f2c0aea6",
+    "pages": 18,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Social Circus/Research on youth and social circus pedagogy.pdf",
+    "file": "Research + Studies/Social Circus/2ca21ca885-Research-on-youth-and-social-circus-pedagogy.md",
+    "sha": "2ca21ca885b6b75335eb3f92bd3a55d7d275715292225ead2438c304640354a7",
+    "pages": 118,
+    "sparse": [
+      9,
+      26,
+      48,
+      69,
+      88,
+      117
+    ],
+    "ocr": [
+      118
+    ]
+  },
+  {
+    "source": "Research + Studies/Socioemotional Benefits of the Arts_Summary.pdf",
+    "file": "Research + Studies/90c32fc603-Socioemotional-Benefits-of-the-Arts-Summary.md",
+    "sha": "90c32fc6033723eaa96b27aa72aa5bdeee942d38db870c752aeb54a81baa329d",
+    "pages": 18,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/THE DEVELOPMENT OF THE FEATURES OF POSITIVE YOUTH.pdf",
+    "file": "Research + Studies/45810c1b89-THE-DEVELOPMENT-OF-THE-FEATURES-OF-POSITIVE-YOUT.md",
+    "sha": "45810c1b8999910c35368fc2c3e2a5123e456508bfdab08a18b73781ddf5cd54",
+    "pages": 99,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/The Impact of Circus Arts Instruction on the Physical Literacy of Children in Grades 4 and 5.pdf",
+    "file": "Research + Studies/8905de6789-The-Impact-of-Circus-Arts-Instruction-on-the-Phy.md",
+    "sha": "8905de67899566eacbe7d86cdea83942369cc22ab95ac685f980c3bdb1b768b2",
+    "pages": 85,
+    "sparse": [
+      80
+    ],
+    "ocr": [
+      81,
+      82,
+      83,
+      84
+    ]
+  },
+  {
+    "source": "Research + Studies/The_effects_of_International_Poi_on_phys.pdf",
+    "file": "Research + Studies/a78dbfd696-The-effects-of-International-Poi-on-phys.md",
+    "sha": "a78dbfd696a93c6b6d1bf1bd6caf7a77ac9fa03f9cadb908bac84237c254862d",
+    "pages": 234,
+    "sparse": [
+      2,
+      199,
+      217,
+      218
+    ],
+    "ocr": [
+      110,
+      111,
+      112,
+      113,
+      185,
+      186,
+      187,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217
+    ]
+  },
+  {
+    "source": "Research + Studies/Training-Induced Brain Structure Changes in the Elderly.pdf",
+    "file": "Research + Studies/03698b9fc5-Training-Induced-Brain-Structure-Changes-in-the-.md",
+    "sha": "03698b9fc5ecad828704bd4613daed69c48b8ec4629eb412d60fb988ff665ccc",
+    "pages": 5,
+    "sparse": [],
+    "ocr": []
+  },
+  {
+    "source": "Research + Studies/Van_der_Weel_and_Van_der_Meer_2024_handwriting_brain_connectivity.pdf",
+    "file": "Research + Studies/61f72c681e-Van-der-Weel-and-Van-der-Meer-2024-handwriting-b.md",
+    "sha": "61f72c681ee0e49ff31bfab1f3438b6a12a4d0cdaf8874a741847034bd8efe1f",
+    "pages": 9,
+    "sparse": [],
+    "ocr": []
+  }
+]

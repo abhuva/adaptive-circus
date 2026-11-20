@@ -1,0 +1,27 @@
+Forward Arrangement Diagrams
+Fixed-State
+Reverse Synchronous
+(x23x)
+(x23x)
+(xl 4x)
+(x54x)
+(x23x)
+(x23x)
+(x51 x)
+(x54x)
+(x23x)
+(x42)
+(x32x)
+(35x)
+(x32x)
+(x41 x)
+(x24)
+(x45x)
+(x32x)
+(53x)
+(x32x)
+(x15x)
+(x42)
+(x45x)
+(x32x)
+PAG.22

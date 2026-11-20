@@ -1,0 +1,37 @@
+PROPS
+resource
+NOTATION
+SYNCHRONOUS
+Synchronous refers to a simultaneous action from both sides of the
+body and is indicated by placing
+groups of notation.
+Forward Example: (23)(45)
+enclosed sets of parentheses around
+(23)
+(45)
+(23)
+(45)
+Lateral Example: (AB)(BA)
+(AB)
+(BA)
+(AB)
+(BA)
+CROSS-OVER
+Cross-over refers to the category of patterns With naturally occurring
+crossing actions built-in to notation. Indicating patterns as cross-over
+does not effect the notation; however, it is useful to be aware and is
+notated by asterisk mark following notation.
+Cross-Over Example: 21 3*
+2
+REVERSE
+1
+3
+2
+3
+Revere notations invert the standard order of actions within a pattern.
+Reverse action is indicated using the letter x and can is applied in one
+of two ways: to the pattern as whole or individually to specific notes
+within the pattern. In the first case of reversing the effect of an entire
+pattern the x symbol appears before notation and followed by a period
+to indicate its overall effect.
+Page 3 of 9

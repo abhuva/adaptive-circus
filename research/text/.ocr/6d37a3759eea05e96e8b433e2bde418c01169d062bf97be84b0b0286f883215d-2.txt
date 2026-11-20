@@ -1,0 +1,38 @@
+Odd Example: 231
+Hand
+Time
+231231231
+Notation
+PROPS
+resource
+231
+START POSITION
+Start order is determined by whichever
+Side the first notation is located and
+favours proximity to the same side of
+the body. This means that patterns
+should begin from the side of the body
+that is closest and does not cross-over
+to reach the notation. This avoids
+adding unintended complexity to
+simpler activity; however, there are
+circumstance where crossing-over is
+intended and notated separately.
+2
+4
+Left-side
+1
+5
+Right-side
+Neutral
+Note that for Forward Arrangement patterns the start position is determined
+by the first notation within the pattern. However, in Lateral Arrangement
+notation applies to both Sides, so there is no set order to starting positions.
+In this situation the starting hand is decided by choice and alternates either
+direction from this point.
+2
+Lateral Example: ABC
+3
+4
+Page 2 of 9
+5

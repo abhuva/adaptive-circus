@@ -1,0 +1,36 @@
+PROPS
+resource
+PROP SWAP NOTATION
+STRUCTURE
+ARRANGEMENT
+The Juggle Board has two types of arrangement activity: Forward and
+Lateral. Different sets of numeric and alphabetic labels are used to be able
+to tell which arrangement type is described notation describes.
+FORWARD
+LATERAL
+Illi I
+1
+4
+TIMINING
+2
+3
+5
+Reading notation works on the same principal as following a timeline.
+Notes represent single beats within a pattern and every beat assumes to
+alternate one side to the other. This means that different sides of the body
+must take turns in performing actions, unless otherwise notated by
+something else.
+Hand
+Time
+ORBIT
+Notation is writing as the shortest segment of a repeating patterns. This
+means it is meant to repeat itself over and over.
+Note for even cycle patterns hands do not change position; however, that for
+odd cyc/e patterns the hands rotate position from one repetition to the next.
+See following examp/es for demonstration.
+Even Example: 23
+Hand
+Time
+Notation
+232323232323
+Page I of 9

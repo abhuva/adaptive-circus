@@ -1,0 +1,34 @@
+PROPS
+resource
+PRIMARY COMPOSITION - NOTES
+Forward, Fixed-State
+• 2345
+• 2543
+The transition from Synchronous (23)(45) to 2345 involves separating the timing of
+each action. lt can
+help to use packeting technique or grading the tempo down to
+a level O or 1 until
+participant is able to respond to the Change.
+• 23412315
+First introduction of an Asynchronous Centre Line movement, in which the centre
+action must be alternated by left and right side actions. This is another pattern
+where packeting technique or grading tempo down to level O or 1 until participant
+is able to respond to the change is very helpful.
+• 4235
+• 4213
+Encouraging midline closing in Asynchronous rhythm is a challenging transition
+and often requires a brief return to Synchronous (42)(35) just to get the body
+oriented With it's positioning and then transitioning from there into Asynchronous
+4235. Note that 4213 is identical in movements to 4235, only slid over one space
+to the left. This is to create the opening of the 5 lane which encourages smoother
+transition into notation sequence.
+• 42135*
+lt is not always common for this sequence to be understood and performed
+properly on the first attempt. Typically the same hand that rolls the 3 will take two
+turns and also roll the 5. This is because of its proximity to the ball at the time of
+arrival; however, the dominant sense of impulse should be coming from the
+Asynchronous tempo and not subjective interpretations of spatial orientation. lt is
+encouraged to play With tempo to challenge participants in overcoming spatial
+bias, but keep in mind that if changes are not made naturally by participants that
+the following crossing activities will carry them forward in the end.
+Page 2 of 7

@@ -1,0 +1,7 @@
+Forward Arrangement Diagrams
+45321 *
+Fixed-State
+Asynchronous
+54321 *
+54312*
+PAG.14

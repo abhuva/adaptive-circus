@@ -1,0 +1,5 @@
+Auswahl
+Länge
+Material
+Gewicht
+Griff

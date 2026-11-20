@@ -1,0 +1,14 @@
+Parkinson
+While practicing poi, rate if each symptom got better or
+worse?
+Much 5
+Better
+Much
+Worse
+Mood
+Vision
+Fatigue
+Stiffness
+On/Off F lucWa60ns
+Shaking/Trembling
+N=39

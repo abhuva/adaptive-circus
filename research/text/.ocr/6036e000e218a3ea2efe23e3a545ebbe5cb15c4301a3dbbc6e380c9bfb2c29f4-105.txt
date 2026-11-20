@@ -1,0 +1,281 @@
+CL
+MC
+VALUTAZIONE:
+MT
+DW
+ST
+DM
+12/04/21
+-Accogliente
+-Linguaggio
+appwpriato
+-Propositiva
+4
+14/04/21
+- Distaccata
+-Linguaggio
+appropriato
+3
+13/04/21
+- Distaccata
+-Lmguaggio
+appropriato
+3
+13/04/21
+-Accogliente
+-Linguaggio
+appropriato
+-Propositivo
+4
+16/04/21
+- Distaccato
+-L inguaggio
+appropriato
+3
+14/04/21
+-Accogliente
+-Linguaggio
+approprmto
+-Propositiva
+19/04/21
+4
+21/04/21
+3
+20/04/21
+3
+20/04/21
+4
+23/04/21
+3
+21/04/21
+26/04/21
+Accogliente
+-L inguaggio
+appropriato
+-Propositiva
+4
+03/05/21
+- Si avucma
+di piü
+- Lmguaggio
+appwpnato
+4
+27/04/21
+- Si avucma
+di piü
+- Linguaggio
+appropliato
+4
+27/04/21
+-Accogliente
+-L inguaggio
+appropriato
+-Propositivo
+4
+04/05/21
+- Distaccato
+-Linguaggio
+appropriato
+3
+04/05/21
+-Accogliente
+-Linguaggio
+approprlato
+-Propositiva
+4
+12/04/21
+3
+14/04/21
+4
+13/0021
+4
+13/04/21
+4
+16/04/21
+4
+14/04/21
+3
+ass-assente
+19/04/21
+3
+21/04/21
+4
+20/04/21
+4
+20/04/21
+4
+23/04/21
+4
+21/04/21
+3
+4
+1- per niente
+2-poco
+3- abbastanza
+4 -molto
+14/04/21
+-Accogliente
+-Linguaggio
+appropriato
+-Propositiva
+4
+13,04/21
+- Distaccato
+-Lingua g gio
+appropriato
+3
+14/04/21
+-Accogliente
+-Linguaggio
+appropriato
+-Propositivo
+4
+16/04,21
+- Distaccata
+-Lingua g gio
+appwpriato
+3
+21/04/21
+4
+20/04/21
+3
+19/04/21
+3
+21/04/21
+4
+23/04/21
+3
+03/05/21
+Accogliente
+-Lingua g gio
+appropriato
+-Propositiva
+4
+27,'041'21
+- Si avvicina
+di pit
+- Linguaggio
+appropriato
+4
+26/04/21
+- Leggermente
+distaccata
+- Linguaggio
+aPPIOpriato
+3
+03/05/21
+-Accogliente
+-Linguaggio
+appropriato
+-Propositivo
+4
+04/05/21
+-Accogliente
+-Linguaggio
+appropriato
+-Propos i tivo
+4
+14/04/21
+4
+13/04/21
+4
+14/04/21
+4
+16/04/21
+4
+21/04/21
+4
+20,'04/'21
+4
+19/04/21
+3
+21/04/21
+4
+23/04/21
+4
+26/04/21
+3
+03/05/21
+4
+27/04/21
+4
+27/04/21
+4
+04/05/21
+4
+04/05/21
+3
+03/05/21
+4
+27/04,'21
+4
+26/04/21
+3
+03/05/21
+4
+04/05/21
+4
+12/04/21
+4
+14/04/21
+3
+13/04/21
+4
+13/04/21
+4
+16/04/21
+3
+14/04/21
+3
+14/04/21
+3
+13/04/21
+3
+ass
+14/04/21
+3
+16/04/21
+3
+19/04/21
+4
+21/04/21
+4
+20/04/21
+4
+20/04/21
+4
+23/04/21
+3
+21/04/21
+21/04/21
+3
+20/04/21
+3
+19/04/21
+4
+21/04/21
+3
+23/04/21
+4
+26/04/21
+4
+03/05/21
+4
+27/04/21
+4
+27/04/21
+4
+04/05/21
+3
+04/05/21
+03/05/21
+4
+27/04/21
+3
+26/04/21
+4
+03/05/21
+3
+04/05/21
+4
+104

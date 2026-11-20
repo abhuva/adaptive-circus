@@ -1,0 +1,10 @@
+Forward Arrangement Diagrams
+x.2
+x.4
+x.5
+Fixed-State
+Reverse Asynchronous
+x.2
+x.4
+x.5
+PAG. 26

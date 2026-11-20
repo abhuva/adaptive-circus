@@ -1,0 +1,30 @@
+PROPS
+resource
+2
+OPEN-STATE
+EMPTY BEAT
+Empty Beats occur in Asynchronous patterns when the turn of one
+hand is skipped and the same hand is used twice or more in a row. lt is
+notated With the us of an underscore symbol
+Lateral, Fixed-State: A B
+[23-451
+3
+2
+3
+The Open position is the state of objects that change location or lanes
+as part of their event. This condition is marked by the enclosure of
+square brackets along With a dash mark, used to indicate the
+transitioning state from one location to another. For example, the
+Fixed-State pattern of 2345 can be transposed into an Open-State
+variation by grouping the actions of each hand and assigning them a
+relationship of transference. Writing as an Open-State pattern it would
+be The enclosed bracket of [2—4] indicates that the object
+in the 2 position is transferred to the 4 position before performing the
+actioning event, which in this case is to roll the ball. The second set of
+enclosed brackets mirrors the first set, but in this case it is performed
+With the opposite hand on the other side of the board.
+Synchronous Example: [23-45]
+[23-451
+[23-45]
+Page 5 of 9
+[23-45]

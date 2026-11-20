@@ -1,0 +1,33 @@
+PROPS
+resource
+x.2
+3
+2
+3
+In other situations such as With synchronous activity, the reversing of orders
+must be indicated more clearly for each beat of notation. In this case
+individual multiple x symbols are used through notation to indicate each
+specific action of change. Beginning from the standard assumption of none
+crossing action, any notation of x instructs the crossing or uncrossing of
+sides. Synchronous crossing action causes sides to overlap in a way that
+one side goes over and the other side goes under the other.
+Note that alternating top and bottom crossing Sides has great impact on
+changing the level of challenge. For this reason the notation assumes the order
+of the first note in a synchronous set to be on the top-side. In the case of (x23)
+the side that reaches for the 2 is ordered on top, whereas (x32) directs the
+side that reaches for the 3 to be in the top order.
+(x23)
+(x23)
+(x23x)
+(x45)
+(45x)
+(x45x)
+(x32)
+(x32)
+(x23x)
+Page 4 of 9
+(x54)
+(54x)
+(x45x)
+(x23)
+(x23)

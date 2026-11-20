@@ -1,0 +1,7 @@
+Forward Arrangement Diagrams
+2341 2351
+Fixed-State
+Asynchronous
+23142351
+231451
+PAG.6

@@ -1,0 +1,8 @@
+Forward Arrangement Diagrams
+2315
+Fixed-State
+Reverse Asynchronous
+x2
+x2
+2351
+pAG.30
