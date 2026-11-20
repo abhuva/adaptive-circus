@@ -1,8 +1,8 @@
-# Adaptive circus pedagogy
+# Adaptive pedagogy through circus and the arts
 
 **Working question. For this person or group, what can we change so they can engage with the challenge that matters to them?**
 
-This is a first-pass framework for educators designing or revising a circus activity. It grew out of Marc Bielert’s inclusive circus practice and a discussion with an AI collaborator in November 2026. The categories and proposed tests are open for revision. They describe situations. They do not assign people a level or a diagnosis.
+This is a first-pass framework for educators designing or revising a learning activity. It grew out of Marc Bielert’s inclusive circus practice and a discussion with an AI collaborator in November 2026. Circus and the performing arts provide the current evidence and examples. Applications to other subjects are proposals to test. The categories describe situations and remain open for revision.
 
 ## Three design decisions
 
@@ -34,6 +34,8 @@ Social circus may ask what participants can experience, express, or change toget
 
 ## Starting points
 
+- [Open Directory research overview](research/review.md) and [annotated catalogue of local reading copies](research/catalogue.md)
+- [What the evidence adds to adaptive pedagogy beyond circus](research/adaptive-pedagogy.md)
 - [Cases from practice and proposed contrasts](cases.md)
 - [Research and the limits of the evidence](evidence.md)
 - [Working with AI on pedagogical questions](inquiry.md)
