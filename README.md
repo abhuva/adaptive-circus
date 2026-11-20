@@ -10,7 +10,7 @@ This is a first-pass framework for educators designing or revising a learning ac
 2. **Name the demand to keep and the demand to change.** “Improve timing” leaves too much open. “Notice a partner is late and choose when to restart” describes something a person can actually practise. A ball that drops and rolls away might obstruct that opportunity. A tether can make a missed beat recoverable while leaving the tempo quick.
 3. **Locate control and agency.** Who perceives the cue, decides, acts, and repairs an interruption? What do a partner and the apparatus take care of? If the participant pauses, does anything wait for them? Control describes what their action changes. Agency also concerns whose intention can change the activity. Someone else may carry out a movement that the participant directs.
 
-Use observation on either side of these decisions. Before adapting, describe the event closely enough that two educators could offer different explanations. Afterwards, choose evidence appropriate to the purpose. Seeing someone do something today establishes access under those conditions. Seeing it again later helps assess learning. Seeing it in a different task helps assess transfer. A participant’s account can tell us what the experience meant to them.
+Use observation on either side of these decisions. Before adapting, describe the event closely enough that two educators could offer different explanations. Ask where those explanations predict different actions. Completing an activity shows what the participant achieved under those conditions. Which capacity they exercised can remain open. A later occasion helps assess learning, a different task helps assess transfer, and the participant’s account can tell us what the experience meant to them.
 
 ## Ways to vary an activity
 
@@ -33,6 +33,8 @@ Marc reports over seven years of successful use and adaptation. His criticism co
 Social circus may ask what participants can experience, express, or change together. Adaptive circus pedagogy asks how to arrange an activity for a particular purpose. The questions overlap in a rehearsal. A relative discovering a child’s comic timing at a show is a change in the relative’s perception. It need not imply a change in the child’s motor capacity.
 
 ## Starting points
+
+This page holds the current formulation. Look in [inquiry](inquiry.md) for the question under exploration and the [working agreement](AGENTS.md) for how to reconcile future updates.
 
 - [Open Directory research overview](research/review.md) and [annotated catalogue of local reading copies](research/catalogue.md)
 - [What the evidence adds to adaptive pedagogy beyond circus](research/adaptive-pedagogy.md)

@@ -10,6 +10,16 @@ The best candidate for automation is the trip from an account to a **discriminat
 4. **Return to experience.** When the educational purpose warrants it, try a small variation and record the participant’s response, including disagreement or a different use of the activity. Record a later occasion if the question is learning, and another setting if the question is transfer. A retrospective account can stand on its own when no further session is appropriate.
 5. **Revise the claim.** Preserve the original prediction, the outcome, and the reason for changing the interpretation. A useful comparison across cases is one where an adaptation helped in one setting and interfered in another.
 
+### Open question for discussion · practising a part or embedding it in a game
+
+Marc asks when isolating a capacity helps more than practising it within a richer task. For one comparison, specify the purpose, what changes, what stays comparable, and which observation would change the next teaching decision.
+
+Consider three untried handwriting activities. **A:** draw repeated loops from a model. **B:** use the loops to write particular words. **C:** write the same words as clues another player needs to read. A versus B explores practising the component versus using it in letters and words. B versus C retains the writing and introduces a reader with a reason to understand it. A versus C answers a practical choice between two whole activities, but bundles several possible explanations.
+
+Equal minutes answer “What does each activity achieve in the time available?” Matching writing attempts asks what difference context makes at a given practice dose. A child voluntarily writing more clues counts as part of the first effect. For legibility, try a new word with the target letter another day with the same access supports. For willingness to write, offer a genuine opportunity to choose another clue. The published comparisons of handwriting and juggling address neighbouring questions. [Evidence and limits](evidence.md)
+
+**Next decision.** Which purpose motivates this inquiry in practice: legibility that carries over, willingness to write again, or another outcome? That choice determines the comparison. The [colour-and-line case](cases.md#colour-and-line) illustrates the corresponding question for assessment: could two different strategies succeed on every trial we plan to observe?
+
 ### Case record to copy
 
 | Field | Entry |

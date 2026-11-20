@@ -2,7 +2,9 @@
 
 **Working scope. Adaptive pedagogy designs a learning situation so a person can engage with a challenge they have reason to take on.** The useful unit is a person or group attempting something under specified conditions. Circus supplies detailed examples because its timing, spatial relations and division of work are often visible. A broader claim becomes credible one new setting at a time.
 
-## Keep three decisions. Make two of them more precise.
+## Evidence behind the three design decisions
+
+The [current method](../README.md#three-design-decisions) is maintained in the project overview. The examples below explain how this particular collection informed it.
 
 1. **Choose the purpose, with the people affected.** Whose purpose is it, and who gets to revise it? *Creability* used workshops to change and sometimes discard activities proposed by designers. The Quebec study shows how an institution’s idea of progress can differ from what participants value. A person can choose a supported role as their artistic contribution. For a research record, distinguish a purpose someone expressed, one negotiated with them, and one an observer inferred. [Creability, pp. 135–141](text/Books/456d402cf7-Creability-Praxishandbuch-DE1.md#pdf-page-135) · [Spiegel & Parent, pp. 1–2](text/Research%20%2B%20Studies/Social%20Circus/c61bcd42a1-Re-approaching-community-development-through-the.md#pdf-page-1)
 2. **Preserve an opportunity to practise the intended demand.** Describe it as something the learner can *notice and do*. Then identify the demand that may obstruct it. Add one detail when the adaptation uses a signal: **what information does this cue carry, and who produces it?** A cue can reveal what a partner is doing, give an answer away, or become a second rhythm the learner must track. Look for more than one plausible solution before inferring what capacity someone exercised. [Audio-tactile cue experiment, pp. 1–2](text/Research%20%2B%20Studies/6aeebc9f3f-Behavioral-Impact-of-Unisensory-and-Multisensory.md#pdf-page-1) · [Botteri’s generator, pp. 131–132](text/Books/ee202785e1-Motor-Capacities-Handbook-in-the-Educational-Cir.md#pdf-page-131)

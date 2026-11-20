@@ -10,6 +10,21 @@ Marc described roughly eight children aged about eight or nine, with varied supp
 
 **What remains open.** The successful adaptation changed colour and line practice, pace, viewpoint, social arrangement and familiarity. It supplies no isolated estimate of any one change. A future contrast, if it fits the group’s purpose, would be to let a player stay beside the grid and direct a runner. Choosing a useful move under those conditions would inform the visibility or time-pressure explanation. Difficulty choosing one would still admit several explanations. No child needs to repeat a frustrating version to settle the question.
 
+### Colour and line
+
+Marc suggested a line of three differently coloured balls to separate its geometry from its colours. An initial two-choice setup can hold geometry constant:
+
+| Row | First | Second | Available space |
+|---|---|---|---|
+| Top | Red | Red | Empty |
+| Bottom row | Blue | Blue | Empty |
+
+Offer a blue ball, with only the two end spaces available. Either placement completes a line. Only the bottom one matches the colour. Reset and offer red: matching now requires the other row. Vary row position and ball order across turns. A participant can direct a runner. Consistent matching across these changes is evidence of using colour here. Someone could do it by putting like beside like without recognizing a line or anticipating a win.
+
+For a second contrast, offer a yellow ball and two possible spaces. One completes a red–blue–yellow line. The other groups the yellow ball with two yellows in a triangle. Which invitation is given matters: “finish a line” and “put it with its colour” call for different moves. Attribute understanding of the game’s winning condition only with additional evidence about that rule. Neither contrast has been tried with the original group.
+
+The first setup establishes a property of two specified rules: when the offered colour changes, a colour matcher must switch rows and a fixed-position chooser cannot match both. An independent, equally likely guess at either of two spaces matches on four specified trials with probability 1/16. That probability is conditional on the guessing rule. It gives no probability that a particular child understands colour.
+
 ## Juggleboard group passing · practitioner account
 
 Marc’s group exploration has mainly involved capable adults. Players synchronize, pass, create patterns and invent movements. The board constrains trajectories and makes some forms of group passing easier. This supports a description of adult creative practice. Outcomes for children with disabilities in this group format remain open.
