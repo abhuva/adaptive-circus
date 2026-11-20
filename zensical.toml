@@ -1,5 +1,6 @@
 [project]
 site_name = "Adaptive pedagogy"
+site_url = "https://abhuva.github.io/adaptive-circus/"
 site_description = "A working method for adapting learning activities, developed through inclusive circus practice."
 docs_dir = "docs"
 site_dir = "site"

@@ -4,4 +4,4 @@ How can an educator change an activity so a learner can engage with the challeng
 
 Start with [the working method](docs/index.md) and [cases from practice](docs/cases.md). The [current inquiry](docs/inquiry.md) shows what we’re still exploring. The [research overview](docs/research/review.md) and [source catalogue](research/catalogue.md) provide the evidence behind the discussion.
 
-[Read the documentation site locally or download a build](docs/reading.md).
+[Read the documentation on GitHub Pages](https://abhuva.github.io/adaptive-circus/) or [use it offline](docs/reading.md).

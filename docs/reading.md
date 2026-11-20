@@ -1,6 +1,6 @@
 # Reading the site
 
-The navigation follows the [method](index.md), the [cases](cases.md), the [inquiry](inquiry.md), and the evidence. The source catalogue and full reading copies are available in the private GitHub repository.
+The [live documentation](https://abhuva.github.io/adaptive-circus/) updates after each successful build on `main`. The navigation follows the [method](index.md), the [cases](cases.md), the [inquiry](inquiry.md), and the evidence. The [source catalogue and reading copies](https://github.com/abhuva/adaptive-circus/blob/main/research/catalogue.md) are available in the repository.
 
 ## Download a built site
 
