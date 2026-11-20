@@ -1,0 +1,14 @@
+[project]
+site_name = "Adaptive pedagogy"
+site_description = "A working method for adapting learning activities, developed through inclusive circus practice."
+docs_dir = "docs"
+site_dir = "site"
+nav = [
+  { "The method" = "index.md" },
+  { "Cases from practice" = "cases.md" },
+  { "Open inquiry" = "inquiry.md" },
+  { "Evidence" = "evidence.md" },
+  { "Research overview" = "research/review.md" },
+  { "Beyond circus" = "research/adaptive-pedagogy.md" },
+  { "Reading the site" = "reading.md" },
+]

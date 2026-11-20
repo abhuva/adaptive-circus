@@ -1,0 +1,27 @@
+name: Build documentation
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install Zensical
+        run: python -m pip install -r requirements-docs.txt
+      - name: Build documentation
+        run: zensical build --clean --strict
+      - name: Save static site
+        uses: actions/upload-artifact@v4
+        with:
+          name: adaptive-pedagogy-site
+          path: site/
+          if-no-files-found: error
